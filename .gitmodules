@@ -1,0 +1,6 @@
+[submodule "TimeSeriesGen"]
+	path = TimeSeriesGen
+	url = https://github.com/minhanh151/Time-Gen-AI.git
+[submodule "ImageGen"]
+	path = ImageGen
+	url = https://github.com/minhanh151/PlantGAN.git
